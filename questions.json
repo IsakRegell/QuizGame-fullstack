@@ -1,0 +1,154 @@
+{
+  "categories": [
+    {
+      "name": "Science",
+      "questions": [
+        {
+          "text": "What is the chemical symbol for gold?",
+          "options": [ "Au", "Ag", "Pb", "Fe" ],
+          "answer": "Au"
+        },
+        {
+          "text": "What is the boiling point of water in Celsius?",
+          "options": [ "90°C", "100°C", "110°C", "120°C" ],
+          "answer": "100°C"
+        },
+        {
+          "text": "What element does 'O' represent on the periodic table?",
+          "options": [ "Oxygen", "Osmium", "Ozone", "Oganesson" ],
+          "answer": "Oxygen"
+        },
+        {
+          "text": "What part of the cell contains genetic material?",
+          "options": [ "Nucleus", "Mitochondria", "Cytoplasm", "Ribosome" ],
+          "answer": "Nucleus"
+        },
+        {
+          "text": "Which planet is closest to the Sun?",
+          "options": [ "Venus", "Earth", "Mercury", "Mars" ],
+          "answer": "Mercury"
+        }
+      ]
+    },
+    {
+      "name": "History",
+      "questions": [
+        {
+          "text": "Who was the first emperor of China?",
+          "options": [ "Qin Shi Huang", "Li Shimin", "Kangxi", "Zhao Kuangyin" ],
+          "answer": "Qin Shi Huang"
+        },
+        {
+          "text": "In which year did the Titanic sink?",
+          "options": [ "1900", "1912", "1920", "1932" ],
+          "answer": "1912"
+        },
+        {
+          "text": "Who discovered penicillin?",
+          "options": [ "Marie Curie", "Albert Einstein", "Alexander Fleming", "Louis Pasteur" ],
+          "answer": "Alexander Fleming"
+        },
+        {
+          "text": "Who was the first woman to fly solo across the Atlantic Ocean?",
+          "options": [ "Amelia Earhart", "Bessie Coleman", "Harriet Quimby", "Jacqueline Cochran" ],
+          "answer": "Amelia Earhart"
+        },
+        {
+          "text": "Which country was the first to grant women the right to vote?",
+          "options": [ "United States", "New Zealand", "Finland", "Australia" ],
+          "answer": "New Zealand"
+        }
+      ]
+    },
+    {
+      "name": "Geography",
+      "questions": [
+        {
+          "text": "Which country is known as the Land of the Rising Sun?",
+          "options": [ "China", "Japan", "South Korea", "Thailand" ],
+          "answer": "Japan"
+        },
+        {
+          "text": "What is the smallest country in the world by land area?",
+          "options": [ "Vatican City", "Monaco", "San Marino", "Nauru" ],
+          "answer": "Vatican City"
+        },
+        {
+          "text": "Which desert is the largest in the world?",
+          "options": [ "Sahara", "Kalahari", "Gobi", "Arabian" ],
+          "answer": "Sahara"
+        },
+        {
+          "text": "What is the capital of Canada?",
+          "options": [ "Toronto", "Vancouver", "Ottawa", "Montreal" ],
+          "answer": "Ottawa"
+        },
+        {
+          "text": "Which country has the most islands?",
+          "options": [ "Sweden", "Finland", "Norway", "Canada" ],
+          "answer": "Sweden"
+        }
+      ]
+    },
+    {
+      "name": "Sports",
+      "questions": [
+        {
+          "text": "Which country hosted the 2016 Summer Olympics?",
+          "options": [ "United States", "Brazil", "China", "Russia" ],
+          "answer": "Brazil"
+        },
+        {
+          "text": "Which sport is known as the 'king of sports'?",
+          "options": [ "Soccer", "Basketball", "Tennis", "Cricket" ],
+          "answer": "Soccer"
+        },
+        {
+          "text": "Who holds the record for the most goals in a single World Cup?",
+          "options": [ "Ronaldo", "Marta", "Miroslav Klose", "Pele" ],
+          "answer": "Miroslav Klose"
+        },
+        {
+          "text": "Which NFL team has won the most Super Bowl titles?",
+          "options": [ "New England Patriots", "Dallas Cowboys", "San Francisco 49ers", "Pittsburgh Steelers" ],
+          "answer": "New England Patriots"
+        },
+        {
+          "text": "Which tennis player has won the most Grand Slam titles?",
+          "options": [ "Roger Federer", "Serena Williams", "Rafael Nadal", "Novak Djokovic" ],
+          "answer": "Serena Williams"
+        }
+      ]
+    },
+    {
+      "name": "Movies",
+      "questions": [
+        {
+          "text": "Who directed the movie 'Inception'?",
+          "options": [ "Christopher Nolan", "Steven Spielberg", "Martin Scorsese", "Quentin Tarantino" ],
+          "answer": "Christopher Nolan"
+        },
+        {
+          "text": "Which movie won the Academy Award for Best Picture in 1994?",
+          "options": [ "Forrest Gump", "The Shawshank Redemption", "Pulp Fiction", "The Lion King" ],
+          "answer": "Forrest Gump"
+        },
+        {
+          "text": "Which actor played the character of Jack Dawson in Titanic?",
+          "options": [ "Leonardo DiCaprio", "Matt Damon", "Johnny Depp", "Brad Pitt" ],
+          "answer": "Leonardo DiCaprio"
+        },
+        {
+          "text": "Which film features a famous quote 'May the Force be with you'?",
+          "options": [ "Star Wars", "Star Trek", "Jurassic Park", "The Matrix" ],
+          "answer": "Star Wars"
+        },
+        {
+          "text": "What is the name of the fictional African country in 'Black Panther'?",
+          "options": [ "Zamunda", "Wakanda", "Genovia", "Elbonia" ],
+          "answer": "Wakanda"
+        }
+      ]
+    }
+  ]
+}
